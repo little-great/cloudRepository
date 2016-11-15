@@ -1,0 +1,1 @@
+command shift T 切换为简单文本文件，txt格式
